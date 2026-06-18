@@ -25,12 +25,12 @@ An end-to-end Power BI solution built to transform and analyse raw sales logs in
 ---
 
 ## 📁 Repository Structure
-* Sales_Data_Analytics.pbix 
+* # Sales_Data_Analytics.pbix 
 
 ---
 
 ## 🖼️ Dashboard Preview
-* Dashboard.jpg
+* ## Dashboard.jpg
 ---
 
 ## 📫 Contact
