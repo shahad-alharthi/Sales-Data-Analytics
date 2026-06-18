@@ -34,5 +34,6 @@ An end-to-end Power BI solution built to transform and analyse raw sales logs in
 ---
 
 ## 📫 Contact
-*   LinkedIn: [Shahad Alharthi](https://www.linkedin.com/in/shahad (https://www.linkedin.com/in/shahad-alharthi-859b282a9?utm_source=share_via&utm_content=profile&utm_medium=member_ios) alharthi-859b282a9?utm_source=share_via&utm_content=profile&utm_medium=member_ios (https://www.linkedin.com/in/shahad-alharthi-859b282a9?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+*   LinkedIn: [Shahad Alharthi](https://www.linkedin.com/in/shahad-alharthi-859b282a9/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnJQY0%2B%2FFQySu4lv4I4wrWA%3D%3D)
+
 *   Email: [Shhhaahaad@gmail.com]
