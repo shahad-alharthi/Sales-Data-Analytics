@@ -1,2 +1,38 @@
 # Sales-Data-Analytics
-A high-performance Power BI sales intelligence solution featuring an optimized star schema data model, advanced DAX KPIs, and dynamic executive dashboards built per Satr platform (Tuwaiq Academy) requirements.
+
+An end-to-end Power BI solution built to transform and analyse raw sales logs into a structured data model and dynamic executive dashboard based on Satr Platform (Tuwaiq Academy) requirements.
+
+## 🛠️ Tech Stack
+
+* Power BI 
+* Power query 
+* DAX 
+* Data Analysis
+* Data Visualisation 
+* KPI Tracking & Reporting
+* Dashboard Design 
+
+## 🚀 📊 Key Tasks & Impact
+
+* Task 1 (Data ETL): Imported, cleaned, and normalized raw sales data.
+* Task 2 (Data Modeling): Built a functional Data Model with optimized table relationships.
+* Task 3 (Income Segmentation): Created a conditional column to segment customer tiers (High Income > $100,000).
+* Task 4 (Profit Calculation): Developed custom calculated columns using DAX to compute Profit and Revenue. 
+* Task 5 (KPI Engineering): Engineered DAX measures for Total Sales and Average Sales.
+* Task 6 (Visual Design): Built an interactive dashboard utilising by charts.
+* Task 7 (Geospatial Mapping): Added territory maps to track sales distribution by cities.
+
+---
+
+## 📁 Repository Structure
+* Sales_Data_Analytics.pbix 
+
+---
+
+## 🖼️ Dashboard Preview
+* Dashboard.jpg
+---
+
+## 📫 Contact
+*   LinkedIn: [Shahad Alharthi](https://www.linkedin.com/in/shahad (https://www.linkedin.com/in/shahad-alharthi-859b282a9?utm_source=share_via&utm_content=profile&utm_medium=member_ios) alharthi-859b282a9?utm_source=share_via&utm_content=profile&utm_medium=member_ios (https://www.linkedin.com/in/shahad-alharthi-859b282a9?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+*   Email: [Shhhaahaad@gmail.com]
